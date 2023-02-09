@@ -1,7 +1,7 @@
-
 <h1 align="center">Hi 👋, I'm Md Shoaib Ahammed</h1>
-<h3 alig=center">Still Learning </h3>
+<h3 alig=center">Still learning </h3>
 <img aling="right" alt="coding" width="400" src="https://i.ytimg.com/vi/_huo7KMp2Ww/maxresdefault.jpg"
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoaib-ahammde&label=Profile%20views&color=0e75b6&style=flat" alt="shoaib-ahammde" /> </p>
 
 - 🌱 I’m currently learning **Web Development**
